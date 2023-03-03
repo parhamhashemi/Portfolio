@@ -3,5 +3,5 @@
 
 *Notes*
 * The Datasets (CovidDeaths.xlsx and CovidVaccinations.xlsx) can be found in the **Tables** Folder
-* The Orignial Dataset (owid-covid-data.csv) is downloaded from this link: https://ourworldindata.org/covid-deaths
+* The Orignial Dataset (owid-covid-data.csv, last available date = 2023-02-27) is downloaded from this link: https://ourworldindata.org/covid-deaths
 
