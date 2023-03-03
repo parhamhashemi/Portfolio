@@ -1,5 +1,5 @@
 ## Covid Portfolio Project
-* Checkout the **CovidPortfolioProject.sql** file
+* Check out the **CovidPortfolioProject.sql** file
 
 *Notes*
 * The Datasets (CovidDeaths.xlsx and CovidVaccinations.xlsx) can be found in the **Tables** Folder
